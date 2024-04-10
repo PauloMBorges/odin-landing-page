@@ -1,0 +1,55 @@
+[33mcommit 0a6d3d88efaac5271d661b70480b332ab89dfb7a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: PauloMBorges <paulodemeloborges@gmail.com>
+Date:   Wed Apr 10 12:21:00 2024 -0300
+
+    "Add header content with corresponding styles"
+    
+    I added the main text, secondary text, image and button to the header content and styled them
+
+[33mcommit 6ec1e9e51fbc594a896c92db176f1b59638b66b2[m
+Author: PauloMBorges <paulodemeloborges@gmail.com>
+Date:   Wed Apr 10 11:42:49 2024 -0300
+
+    Create images folder with Astra logo
+
+[33mcommit 2b9cec6780c2822cc415b95b4a352a55f3174119[m
+Author: PauloMBorges <paulodemeloborges@gmail.com>
+Date:   Wed Apr 10 11:32:20 2024 -0300
+
+    Style header with flexbox layout and Nunito font
+
+[33mcommit 1b87f33b95daffef70ce7e97d81c38c616415f4c[m
+Author: PauloMBorges <paulodemeloborges@gmail.com>
+Date:   Wed Apr 10 11:00:08 2024 -0300
+
+    Add basic header HTML structure
+    
+    Added the basic HTML structure for the header section in index.html. The header includes a logo and navigation links.
+
+[33mcommit cf7b69e38bd7f049875c47541e7b99b39bd11514[m
+Author: PauloMBorges <paulodemeloborges@gmail.com>
+Date:   Wed Apr 10 10:50:42 2024 -0300
+
+    Add style.css file
+
+[33mcommit 5929dff07d955e34be061aec7a15f57abdeab195[m
+Author: PauloMBorges <paulodemeloborges@gmail.com>
+Date:   Wed Apr 10 10:49:01 2024 -0300
+
+    Add index.html with basic doctype
+    
+    Created the index.html containing the basic doctype declaration to set the HTML document.
+
+[33mcommit b8e62edcbf2890a01111cff55b52a350d78921bd[m
+Author: PauloMBorges <paulodemeloborges@gmail.com>
+Date:   Wed Apr 10 10:46:18 2024 -0300
+
+    Add design-images folder with design reference images
+    
+    Created a new folder named "design-images". This folder contains two PNG images providing design references for the landing page, including the full design and color scheme/fonts.
+
+[33mcommit f24614cf9c386e8d96e00f2b5c518c169dedd656[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: PauloMBorges <106917891+PauloMBorges@users.noreply.github.com>
+Date:   Wed Apr 10 10:40:17 2024 -0300
+
+    Initial commit

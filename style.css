@@ -43,7 +43,7 @@ ul {
     display: flex;
     /*background-color: #1F2937;*/
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .hero-main-text {
@@ -60,10 +60,11 @@ ul {
 .header-button{
     background-color: white;
     color: black;
+    font-weight: 500;
     border-radius: 8px; 
     padding: 8px;
     font-size: 24px;
-    width: 12em;
+    width: 6em;
     border: none; 
     transition: 0.5s
 }
@@ -72,4 +73,15 @@ ul {
     background-color: #13adee;
     color: white;
     border-radius: 16px;
+}   
+
+.left {
+    margin-left: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.right {
+    margin-right: 150px;
 }
