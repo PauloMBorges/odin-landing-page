@@ -1,9 +1,14 @@
-.header {
+body {
     background-color: #1F2937;
+    font-family: 'Nunito', sans-serif;
+}
+
+.header {
+    /*background-color: #1F2937;*/
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: 'Nunito', sans-serif;
+    /*font-family: 'Nunito', sans-serif;*/
 }
 
 .logo {
@@ -30,4 +35,41 @@ ul {
     gap: 18px;
     padding: 18px;
     margin-right: 150px;
+}
+
+/* All of the above is header styling */
+
+.header-content {
+    display: flex;
+    /*background-color: #1F2937;*/
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-button{
+    background-color: white;
+    color: black;
+    border-radius: 8px; 
+    padding: 8px;
+    font-size: 24px;
+    width: 12em;
+    border: none; 
+    transition: 0.5s
+}
+
+.header-button:hover {
+    background-color: #13adee;
+    color: white;
+    border-radius: 16px;
 }
