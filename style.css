@@ -1,14 +1,16 @@
 /* header styling */
 
 body {
-    background-color: #1F2937;
     font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #1F2937
 }
 
 .logo {
@@ -51,6 +53,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: #1F2937
 }
 
 .hero-main-text {
@@ -92,5 +95,11 @@ a:hover {
 
 .right {
     margin-right: 150px;
+}
+
+/* about page styling */
+
+.about-page {
+    background-color: white;
 }
 
