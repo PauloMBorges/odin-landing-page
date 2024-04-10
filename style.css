@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #1F2937
+    background-color: #1F2937;
 }
 
 .logo {
@@ -39,6 +39,11 @@ ul {
     margin-right: 150px;
 }
 
+.logo-image {
+    width: 450px;
+    height: auto;
+}
+
 
 /* change links color when hovering */
 a:hover {
@@ -52,8 +57,10 @@ a:hover {
 .header-content {
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    background-color: #1F2937
+    justify-content: space-evenly;
+    background-color: #1F2937;
+    gap: 1em;
+    min-height: 700px;
 }
 
 .hero-main-text {
@@ -65,7 +72,7 @@ a:hover {
 .hero-secondary-text {
     font-size: 18px;
     color: #E5E7EB;
-    line-height: 1.5;
+    line-height: 1.75;
 }
 
 .header-button{
@@ -87,10 +94,11 @@ a:hover {
 }   
 
 .left {
-    margin-left: 200px;
+    margin-left: 100px;
     display: flex;
     flex-direction: column;
     gap: 30px;
+    max-width: 700px;
 }
 
 .right {
@@ -106,6 +114,11 @@ a:hover {
     flex-direction: column;
 }
 
+.title {
+    padding: 40px;
+    margin: 40px 0;
+}
+
 .team-image {
     width: 150px;
     height: auto;
@@ -118,8 +131,36 @@ a:hover {
 }
 
 .team-name {
-    font-family: 'Nunito', sans-serif;
+    font-size: 23px;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
     font-size: 20px;
+    color: #696868;
+    padding: 0;
+}
+
+a.linkedin {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #696868;
+    font-size: 20px;
+    box-sizing: border-box;
+    background-color: transparent;
+    border: none;
+    margin: 0;
+}
+
+
+.description .linkedin:hover {
+    background-color: transparent;
+    text-decoration: underline;
+    color:#1F2937
 }
 
 .bordered-part {
