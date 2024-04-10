@@ -119,8 +119,8 @@ a:hover {
 }
 
 .title {
-    padding: 40px;
-    margin: 40px 0;
+    padding: 30px;
+    margin: 30px 0;
 }
 
 .team-image {
@@ -145,6 +145,7 @@ a:hover {
     font-size: 20px;
     color: #696868;
     padding: 0;
+    margin-bottom: 100px;
 }
 
 a.linkedin {
