@@ -181,3 +181,15 @@ a.linkedin {
 
 /* astra companion styling*/
 
+.astra-companion {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: space-around;  
+}
+
+.companion-image {
+    height: 500px;
+    width: auto;
+    margin: 75px;
+    padding: 0;
+}
