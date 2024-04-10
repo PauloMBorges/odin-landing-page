@@ -211,3 +211,9 @@ a.linkedin {
     font-size: 48px;
     max-width: 750px;
 }
+
+.companion-video {
+    width: 500px;
+    height: auto;
+    margin-top: 20px;
+}
