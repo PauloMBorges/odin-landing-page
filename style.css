@@ -101,5 +101,18 @@ a:hover {
 
 .about-page {
     background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.team-image {
+    width: 150px;
+    height: auto;
+}
+
+.photos-container {
+    display: flex;
+
 }
 
