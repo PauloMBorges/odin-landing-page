@@ -216,4 +216,9 @@ a.linkedin {
     width: 500px;
     height: auto;
     margin-top: 20px;
+    border-radius: 12px;
+}
+
+.right-below {
+    display: flex;
 }
