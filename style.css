@@ -219,6 +219,17 @@ a.linkedin {
     border-radius: 12px;
 }
 
-.right-below {
+.right-below-companion {
     display: flex;
+    justify-content: space-between;
+}
+
+.download-images {
+    width: 150px;
+    align-self: center;
+}
+
+.download-images img {
+    width:100%; /* Ensures the image fills its container */
+    height: auto;
 }
