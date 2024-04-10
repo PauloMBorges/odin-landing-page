@@ -117,7 +117,20 @@ a:hover {
     gap: 150px;
 }
 
+.team-name {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+
 .bordered-part {
-    border-style: dotted;
+    border: 4px solid #13adee;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px 30px;
+    border-radius: 12px;
+    max-width: 175px;
+    min-width: 175px;
+    
 }
 
