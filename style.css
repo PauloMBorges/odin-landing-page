@@ -1,3 +1,5 @@
+/* header styling */
+
 body {
     background-color: #1F2937;
     font-family: 'Nunito', sans-serif;
@@ -37,7 +39,15 @@ ul {
     margin-right: 150px;
 }
 
-/* All of the above is header styling */
+
+/* change header-links color when hovering */
+a:hover {
+    color: #13adee;;
+    transition: 0.25s;
+}
+
+
+/* header content styling */
 
 .header-content {
     display: flex;
@@ -86,3 +96,7 @@ ul {
 .right {
     margin-right: 150px;
 }
+
+/* TO DO: Mudar a cor de equipe nossol ema e contato quando hover  - OK
+- Continuar página (seção Quem somos)
+*/  
