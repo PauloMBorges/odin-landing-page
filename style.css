@@ -2,7 +2,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* header styling */
+/* ----------------------------------- header styling ----------------------------------- */
 
 body {
     font-family: 'Nunito', sans-serif;
@@ -56,7 +56,7 @@ a:hover {
 }
 
 
-/* header content styling */
+/* ----------------------------------- header content styling -----------------------------------*/
 
 .header-content {
     display: flex;
@@ -109,7 +109,7 @@ a:hover {
     margin-right: 150px;
 }
 
-/* about page styling */
+/* ----------------------------------- about page styling ----------------------------------- */
 
 .about-page {
     background-color: white;
@@ -180,7 +180,7 @@ a.linkedin {
     
 }
 
-/* astra companion styling*/
+/* -----------------------------------  astra companion styling -----------------------------------*/
 
 .astra-companion {
     background-color: #E5E7EB;
@@ -233,3 +233,7 @@ a.linkedin {
     width:100%; /* Ensures the image fills its container */
     height: auto;
 }
+
+
+/* ----------------------------------- contact and budget styling ----------------------------------- */
+
