@@ -306,5 +306,7 @@ a.linkedin {
 }
 
 .contact-button:hover {
-    /*estilizar botão hover */
+    background-color: #4A5AB7;
+    transition: 0.3s;
+    cursor: pointer;
 }
