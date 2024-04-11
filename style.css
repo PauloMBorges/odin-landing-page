@@ -237,3 +237,14 @@ a.linkedin {
 
 /* ----------------------------------- contact and budget styling ----------------------------------- */
 
+.budget {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.budget-container {
+    background-color: #E5E7EB;
+    margin: 150px;
+}
