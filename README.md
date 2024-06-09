@@ -1,4 +1,5 @@
 # # Odin Landing Page
+![image](https://github.com/PauloMBorges/odin-landing-page/assets/106917891/6af93eb9-2213-407e-a5ff-b99f5989b6bb)
 
 This project is a mockup landing page created as part of the curriculum for The Odin Project.
 
