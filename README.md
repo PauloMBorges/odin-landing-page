@@ -13,16 +13,6 @@ The Odin Landing Page is designed to practice and showcase web development skill
 - **Interactive Elements**: Clickable buttons, links, and form inputs that provide real-time responses to user actions.
 - **Core Web Development**: Showcases fundamental web development practices with HTML & CSS.
 
-## Skills Demonstrated
-
-- HTML & CSS: Implements a foundational structure and style to present content clearly on a desktop interface.
-- Documentation: Clear and concise documentation in the README file.
-
 ## Website Link
 
 Visit the live website [here](https://paulomborges.github.io/odin-landing-page/).
-
-## License
-
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
